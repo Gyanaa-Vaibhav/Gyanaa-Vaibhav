@@ -10,7 +10,7 @@
 * 🌏 Make sure to check out my portfolio of projects for a glimpse of my journey so far.
 
 ## 💼 Skills:
-* Frontend Development: HTML, CSS, JavaScript, React
+* 🖥️ **Frontend Development:**: HTML, CSS, JavaScript, React
 * UI/UX Design: Mobile-first design, Responsive design principles
 * Currently Learning: Node.js, SQL, Backend development
 
@@ -19,6 +19,6 @@
 * CV Maker: Built with React, following SOLID principles.
 * Pokemon Memory Game: Interactive React app with PokéAPI integration.
 
-Feel free to connect or explore my repositories!
-📫 Contact: gynanvaibhav@gmail.com
-💼 Portfolio: [https://github.com/Gyanaa-Vaibhav]Git
+Feel free to connect or explore my repositories! <br>
+📫 Contact: gynanvaibhav@gmail.com <br>
+💼 Portfolio: Coming Soon! Stay tuned. 🚀
