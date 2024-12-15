@@ -15,9 +15,10 @@
 * Currently Learning: Node.js, SQL, Backend development
 
 ## 📂 Featured Projects:
-* Movies Watch List: React-based app with auto-suggestions and sleek UI.
-* CV Maker: Built with React, following SOLID principles.
 * Pokemon Memory Game: Interactive React app with PokéAPI integration.
+* Real Time Chat Application: Allows users to chat and be anynomous. Live deployed [here](www.gyanaavaibhav.in)
+* CV Maker: Built with React, following SOLID principles.
+* Movies Watch List: React-based app with auto-suggestions and sleek UI.
 
 Feel free to connect or explore my repositories! <br>
 📫 Contact: gynanvaibhav@gmail.com <br>
