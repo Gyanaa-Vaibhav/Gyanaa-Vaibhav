@@ -59,9 +59,9 @@
 ---
 
 ## 📫 **Contact Me**  
-- 💌 **Email**: [gyanaarudr0@gmail.com](mailto:gynanrudr0@gmail.com)  
+- 💌 **Email**: [gynanrudr0@gmail.com](mailto:gynanrudr0@gmail.com)  
 - 🌐 **Portfolio**: [resume.gyanaavaibhav.in](https://resume.gyanaavaibhav.in)  
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/gyanaa-vaibhav1/)
+- 💼 **LinkedIn**: [Gyanaa Vaibhav](https://www.linkedin.com/in/gyanaa-vaibhav1/)
 - 🛠️ **GitHub**: [gyanaavaibhav](https://github.com/gyanaavaibhav)  
 
 Let’s connect and build something amazing together! 🚀
