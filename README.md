@@ -44,7 +44,7 @@
 **Description**: A React app for creating and exporting custom CVs in A4 PDF format. Showcases complex state management and dynamic form handling.  
 **Tech Stack**: React | HTML2PDF  
 
-### 4. **[Movies Watch List](https://movies.gyanaavaibhav.in)**  
+### 4. **[Movies Watch List](https://movie.gyanaavaibhav.in)**  
 **Description**: A sleek, UI-heavy React app for tracking movies, featuring an auto-suggestion search bar and interactive design.  
 **Tech Stack**: React | Node.js (Backend integration planned)  
 
