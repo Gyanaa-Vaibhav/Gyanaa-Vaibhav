@@ -1,69 +1,91 @@
-# Hi, I am **Gyanaa Vaibhav** 👋  
+# Hey, I’m **Gyanaa Vaibhav** 👋  
+### Full Stack Developer • System Design Blogger • Indie Infra Builder
 
-🎉 **Full Stack Developer | Passionate Problem Solver**  
-🌟 Passionate about creating intuitive and user-friendly interfaces with a focus on impactful, real-world applications.  
-📚 Continuously learning and building impactful full-stack projects.
-
----
-
-## 🌟 **About Me**  
-- 🧠 I thrive on solving challenging problems with innovative and efficient solutions.  
-- 🚀 Exploring the world of **full-stack development** through hands-on projects and learning new technologies.  
-- 🌏 Committed to making a positive impact through design and development.  
+🚀 I build high-performance, production-ready applications — from fast APIs to real-time systems.  
+🧠 20+ blogs on system design with 5K+ claps on Medium.  
+💥 Projects like [ipwho.org](https://ipwho.org) & [lilurl.org](https://lilurl.org)(in Progress) power real traffic at scale.  
+💻 Currently open to remote full-time and freelance roles.   
 
 ---
 
-## 💻 **Skills**  
-### **Frontend Development**  
-- HTML | CSS | JavaScript | React.js  
-- Responsive and mobile-first design  
-- UI/UX design principles for visually appealing and user-friendly interfaces  
+## ⚒️ Tech Stack at a Glance
 
-### **Backend Development**  
-- Node.js | Express.js  
-- PostgreSQL | Redis (Learning GraphQL integration)  
-- REST API design and development  
+### 🚀 **Backend**
+- Node.js • Express.js • TypeScript  
+- PostgreSQL • Redis • WebSockets  
+- REST APIs • GraphQL
+- NGINX • PM2 • VPS (self-hosted)
 
-### **Other Tools**  
-- Git | Firebase  
-- Testing: Vitest, Jest, Supertest  
-- Hosting: Render, Vercel  
+### 🖼️ **Frontend**
+- React.js • TailwindCSS • Responsive UI  
+- State Management (Redux, useReducer)  
+- UI/UX obsessed — clean, fast, intuitive interfaces
 
----
-
-## 📂 **Featured Projects**  
-### 1. **[Message App](https://www.gyanaavaibhav.in)**  
-**Description**: A real-time chat application with anonymous chatting, room-based messaging, and Redis caching for scalability.  
-**Tech Stack**: React | Node.js | WebSocket | PostgreSQL | Redis  
-
-### 2. **[Pokémon Memory Game](https://pokemon.gyanaavaibhav.in)**  
-**Description**: An interactive memory game with multiple levels and difficulty modes, using the PokéAPI for Pokémon data.  
-**Tech Stack**: React | Redux | PokéAPI | (GraphQL integration in progress)  
-
-### 3. **[CV Maker](https://cvmaker.gyanaavaibhav.in)**  
-**Description**: A React app for creating and exporting custom CVs in A4 PDF format. Showcases complex state management and dynamic form handling.  
-**Tech Stack**: React | HTML2PDF  
-
-### 4. **[Movies Watch List](https://movie.gyanaavaibhav.in)**  
-**Description**: A sleek, UI-heavy React app for tracking movies, featuring an auto-suggestion search bar and interactive design.  
-**Tech Stack**: React | Node.js (Backend integration planned)  
+### 🧰 **Other Tools**
+- Git • GitHub • Postman • Docker  
+- Testing: Vitest • Jest • Supertest  
+- Hosting: VPS • Vercel • Render  
+- Analytics, SEO, CI-ready structures
 
 ---
 
-## 🌟 **What’s Next?**  
-- 🛠️ **Learning**: GraphQL integration and advanced backend features.  
-- 🎯 **Upcoming Projects**:  
-  - **Tacker Stock Portfolio**: A comprehensive stock management tool.  
-  - **TodoItAll App**: Manage tasks, notes, and finances in one app.  
+## 🛠️ Projects I’m Proud Of
+
+### 🔗 [ipwho.org](https://ipwho.org) — **Free IP Geolocation API**
+Production-grade API that handles 200K+ reqs/min with Redis caching & no auth needed.  
+**Stack:** Node.js • Express • TypeScript • Redis • NGINX • React  
+**Live:** [https://ipwho.org](https://ipwho.org) | [Code](https://github.com/Gyanaa-Vaibhav/ipwho.org)
 
 ---
 
-## 📫 **Contact Me**  
-- 💌 **Email**: [gynanrudr0@gmail.com](mailto:gynanrudr0@gmail.com)  
-- 🌐 **Portfolio**: [resume.gyanaavaibhav.in](https://resume.gyanaavaibhav.in)  
-- 💼 **LinkedIn**: [Gyanaa Vaibhav](https://www.linkedin.com/in/gyanaa-vaibhav1/)
-- 🛠️ **GitHub**: [gyanaavaibhav](https://github.com/gyanaavaibhav)  
-
-Let’s connect and build something amazing together! 🚀
+### (in Progress) ✂️ [lilurl.org](https://lilurl.org) — **URL Shortener SaaS**
+A Bitly alternative with clean architecture, stats dashboard, and instant redirects.  
+**Stack:** Node.js • Express • Redis • PostgreSQL • React  
+**Live:** [https://lilurl.org](https://lilurl.org) | Code (coming soon)
 
 ---
+
+### 💬 [Message App](https://www.gyanaavaibhav.in)
+Real-time chat app with rooms, anonymous mode, Redis caching, and PostgreSQL sync.  
+**Stack:** React • Node.js • WebSockets • Redis • PostgreSQL  
+
+---
+
+### 🎮 [Pokémon Memory Game](https://pokemon.gyanaavaibhav.in)
+Fun game with card-flips, difficulty levels, and animation — powered by PokéAPI.  
+**Stack:** React • Redux • PokéAPI • GraphQL
+
+---
+
+### 📄 [CV Maker](https://cvmaker.gyanaavaibhav.in)
+Create beautiful exportable PDFs dynamically using React forms.  
+**Stack:** React • HTML2PDF • Custom templates  
+
+---
+
+## ✍️ System Design Blogging (5K+ Claps)
+I break down real-world systems (Twitter, Netflix, Uber) and backend patterns like:
+- Rate Limiting, Throttling, Circuit Breakers  
+- WebSockets, Messaging Queues  
+- Database Sharding, Load Balancing  
+- Clean architecture and code scalability
+
+📚 Read my blogs → [[https://medium.com/@gynanrudr0](http://medium.com/@gynanrudr0)]
+
+---
+
+## 🧭 What’s Next?
+- Converting all 6 system design case studies into real projects  
+- Mastering OOP + Design Patterns  
+- Documenting + Open sourcing real-world infra builds  
+
+---
+
+## 📫 Let’s Talk
+
+- 📧 **Email:** [gynanrudr0@gmail.com](mailto:gynanrudr0@gmail.com)  
+- 🌍 **Portfolio:** [resume.gyanaavaibhav.in](https://resume.gyanaavaibhav.in)  
+- 💼 **LinkedIn:** [Gyanaa Vaibhav](https://www.linkedin.com/in/gyanaa-vaibhav1/)  
+- 🛠️ **GitHub:** [gyanaavaibhav](https://x.com/Gyanaa_Vaibhav)  
+
+Let’s build systems that don’t break. 🔥  
