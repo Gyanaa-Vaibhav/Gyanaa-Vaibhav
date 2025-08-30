@@ -31,8 +31,8 @@
 
 ## 🛠️ Projects I’m Proud Of
 
-### 🔗 [ipwho.org](https://ipwho.org) — **Free IP Geolocation API**
-Production-grade API that handles 200K+ reqs/min with Redis caching & no auth needed.  
+### 🔗 [ipwho.org](https://ipwho.org) — **Free IP Geolocation API**  
+Production-grade API that is serving over **1M Reqs a day** all around the world.  
 **Stack:** Node.js • Express • TypeScript • Redis • NGINX • React  
 **Live:** [https://ipwho.org](https://ipwho.org) | [Code](https://github.com/Gyanaa-Vaibhav/ipwho.org)
 
